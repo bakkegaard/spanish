@@ -65,3 +65,16 @@ quienes - who
 500 - quionientos
 600 - seisaemtos
 700 - sieteaentos
+
+##to like
+
+gustar = to like
+
+me  gusta
+te  gusta
+le  gusta
+nos gusta
+les gusta
+
+A mi tombien = me to
+A mi tampoco = me neither
