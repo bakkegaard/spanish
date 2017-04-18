@@ -242,3 +242,29 @@ vivir - to live
 | él/ella/usted       | puede   |
 | nosotros            | podemos |
 | ellos/ellas/ustedes | pueden  |
+
+
+### Group 3 (e-ie)
+
+| English       | spanish      |
+|---------------|--------------|
+| to lie        | m_e_ntir     |
+| to understand | ent_e_nder   |
+| to recommend  | recom_e_ndar |
+| to want       | qu_e_rer     |
+| to close      | c_e_rrar     |
+| to think      | p_e_nsar     |
+| to wake up    | desp_e_rtar  |
+| to prefer     | pref_e_rir   |
+| to feel       | s_e_ntir     |
+| to suggest    | sug_e_rir    |
+| to lose       | p_e_rder     |
+
+
+|                     | pensar   |
+|---------------------|----------|
+| yo                  | pienso   |
+| tú                  | piensas  |
+| él/ella/usted       | piensa   |
+| nosotros            | pensamos |
+| ellos/ellas/ustedes | piensan  |
