@@ -78,3 +78,140 @@ les gusta
 
 A mi tombien = me to
 A mi tampoco = me neither
+
+## Time
+
+###Days
+Monday - Lunes
+Tuesday - Martes
+Wednesday - Miercoles
+Thursday - Juenes
+Friday Viernes
+Saturday - Sabado
+Sunday - Domingo
+
+###Months
+January -  enero
+February - febrero
+March - marzo
+April - abril
+May - mayo
+June - junio
+July - julio
+Augusto - Agosto
+September - eptiembre
+October - octubre
+November - noviembre
+December - Diciembre
+
+###Seasons
+spring - primarera
+summer - verano
+ofońo - fall
+invierno - winter
+
+###other
+year - ańo
+month - mes
+day - dia
+hour - hora
+minute - minuto
+
+## regular verbs
+|                     | trabajar   | creer   | compartir   |
+|---------------------|------------|---------|-------------|
+| yo                  | trabajo    | creo    | comparto    |
+| tú                  | trajas     | crees   | compartes   |
+| él/ella/usted       | trabaja    | cree    | comparte    |
+| nosotros            | trabajamos | creemos | compartimos |
+| ellos/ellas/ustedes | trabajan   | creen   | comparten   |
+
+### ar
+alquilar - to rent
+amar - to love
+arreglar - to fix
+ayudar - to help
+bailar - to dance
+buscar - to look for/search
+caminar - to walk
+cantar - to sing
+cocinar - to cook
+comprar - to buy
+contestar - to answer
+descansar - to rest
+desear - to wish/hope
+enseñar - to teach
+entrar - to enter
+enviar - to send
+esperar - to wait/hope
+estudiar - to study
+esuchar - to listen
+ganar - to win
+gastar - to spend money
+guardar - to keep
+hablar - to speak
+lavar - to wash
+limpiar - to clean
+llegar - to arrive
+llevar - to carry
+memorizar - to memorize
+mirrar - to look
+nadar - to swim
+necesitar - to need
+olvidar - to forget
+pagar - to pay
+pintar - to paint
+practicar - to practice
+preguntar - to ask
+preparar - to prepare
+regalar - to give present
+regresar - to return
+tomar - to take/to drink
+trabajar - to work
+viajar - to travel
+visitar - to visit
+
+### er
+aprender - to learn
+beber - to drink
+comer - to eat
+comprender - to understand
+correr - to run
+creer - to believe
+deber - must/to have to
+esconder - to hide
+leer - to read
+responder - to answer
+vender - to sell
+
+###ir
+abrir - to open
+admitir - to admit
+compartir - to share
+cubrir - to cover
+decidir - to decide
+describir - to describe
+escribir - to write
+permitir - to permit/allow
+recibir - to receive
+subir - to go up
+vivir - to live
+
+## irregular
+
+### Group 1 - "yo"
+
+| English                | spanish  | yo       |
+|------------------------|----------|----------|
+| to give                | dar      | doy      |
+| to know (knowledge)    | sabar    | sé       |
+| to put                 | poner    | pongo    |
+| to see                 | ver      | veo      |
+| to be                  | estar    | estoy    |
+| to do/make             | hacer    | hago     |
+| to leave/exit          | salir    | salgo    |
+| to bring               | traer    | traigo   |
+| to drive               | conducir | conduzco |
+| to reduce              | reducir  | reduzco  |
+| to know (place/person) | conocer  | conozco  |
+| to offer               | ofrecer  | ofrezco  |
