@@ -199,7 +199,7 @@ vivir - to live
 
 ## irregular
 
-### Group 1 - "yo"
+### Group 1 ("yo")
 
 | English                | spanish  | yo       |
 |------------------------|----------|----------|
