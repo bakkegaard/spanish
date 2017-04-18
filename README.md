@@ -215,3 +215,30 @@ vivir - to live
 | to reduce              | reducir  | reduzco  |
 | to know (place/person) | conocer  | conozco  |
 | to offer               | ofrecer  | ofrezco  |
+
+### Group 2 (o-ue)
+
+| English      | spanish     |
+|--------------|-------------|
+| to cost      | c_o_star    |
+| to try       | pr_o_bar    |
+| to eat lunch | alm_o_rza   |
+| to remember  | rec_o_rdar  |
+| to fly       | v_o_lar     |
+| to rain      | ll_o_ver    |
+| to come back | v_o_lver    |
+| can          | p_o_der     |
+| to play      | j_u_gar     |
+| to die       | m_o_rir     |
+| to sleep     | d_o_rmir    |
+| to use to    | s_o_ler     |
+| to meet      | enc_o_ntrar |
+
+
+|                     | poder   |
+|---------------------|---------|
+| yo                  | puedo   |
+| tú                  | puedes  |
+| él/ella/usted       | puede   |
+| nosotros            | podemos |
+| ellos/ellas/ustedes | pueden  |
