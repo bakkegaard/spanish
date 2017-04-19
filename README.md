@@ -70,11 +70,12 @@
 
 * gustar = to like
 
-* me  gusta
-* te  gusta
-* le  gusta
-* nos gusta
-* les gusta
+|---------------------|-------|---------|
+| a mi                | me    | gusta   |
+| a ti                | te    | gusta   |
+| a él/ella/udsted    | le    | gusta   |
+| a nostos            | nos   | gusta   |
+| ellos/ellas/ustedes | les   | gusta   |
 
 * A mi tombien = me to
 * A mi tampoco = me neither
@@ -118,13 +119,13 @@
 * minute - minuto
 
 ## regular verbs
-|                     | trabajar   | creer   | compartir   |
-|---------------------|------------|---------|-------------|
-| yo                  | trabajo    | creo    | comparto    |
-| tú                  | trajas     | crees   | compartes   |
-| él/ella/usted       | trabaja    | cree    | comparte    |
-| nosotros            | trabajamos | creemos | compartimos |
-| ellos/ellas/ustedes | trabajan   | creen   | comparten   |
+|                     | trabajar (ar) | creer (er) | compartir (ir) |
+|---------------------|---------------|------------|----------------|
+| yo                  | trabajo       | creo       | comparto       |
+| tú                  | trajas        | crees      | compartes      |
+| él/ella/usted       | trabaja       | cree       | comparte       |
+| nosotros            | trabajamos    | creemos    | compartimos    |
+| ellos/ellas/ustedes | trabajan      | creen      | comparten      |
 
 ### ar
 * alquilar - to rent
