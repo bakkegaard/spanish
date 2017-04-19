@@ -70,6 +70,7 @@
 
 * gustar = to like
 
+|                     |       |         |
 |---------------------|-------|---------|
 | a mi                | me    | gusta   |
 | a ti                | te    | gusta   |
