@@ -376,3 +376,20 @@
 | La pelota esta dentro de la mochila       | the ball is inside the bag                |
 | La pelota esta afuera de la mochila       | the ball is outside the bag               |
 | La pelota esta entre de mesa y la mochila | the ball is between the table and the bag |
+
+## Possessions
+
+
+| Single          | Plural            |
+|-----------------|-------------------|
+| mi casa         | mis casas         |
+| tu casa         | tus casas         |
+| su casa         | sus casas         |
+| nuestra(o) casa | nuestra(o)s casas |
+| su casa         | sus casas         |
+
+* la taza es (mia,tuya,nuestra) (the cup is (mine,yours,ours))
+* el libro es (mio,tuyo,nuestro) (the book is (mine,yours,ours))
+* el libro es de mi (the book is mine)
+* la casa es de él (the house is his)
+* las mochilas son de los chicos (the bags is the peoples)
