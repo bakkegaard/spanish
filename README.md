@@ -338,3 +338,16 @@
 * ir + a + vern = going to (in future)
 * ex. yo voy a visitar peru (I am going to visit Peru)
 
+## Prepositions
+
+| Spanish                                   | English                                   |
+|-------------------------------------------|-------------------------------------------|
+| La pelota esta (en,sobre,encima) la mesa  | the ball is on the table                  |
+| La pelota esta (debajo,abajo) la mesa     | the ball is under the table               |
+| La pelota esta lejos de la mesa           | the ball is far away from the table       |
+| La pelota esta cerca la mesa              | the ball is near the table                |
+| La pelota esta a la derecha de la mesa    | the ball is to the right of the table     |
+| La pelota esta a la izquierda la mesa     | the ball is to the left of the table      |
+| La pelota esta dentro de la mochila       | the ball is inside the bag                |
+| La pelota esta afuera de la mochila       | the ball is outside the bag               |
+| La pelota esta entre de mesa y la mochila | the ball is between the table and the bag |
