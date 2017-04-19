@@ -274,4 +274,38 @@
 
 ### Group 4 (dobble irregular)
 
+|                     | tener (to have) | venir (to come) | decir (to say) | conseguir (to get) |
+|---------------------|-----------------|-----------------|----------------|--------------------|
+| yo                  | tengo           | vengo           | digo           | consigo            |
+| tú                  | tienes          | vienes          | dices          | consigues          |
+| él/ella/usted       | tiene           | veine           | dice           | consigue           |
+| nosotros            | tenemos         | venimos         | decimos        | conseguinios       |
+| ellos/ellas/ustedes | tenen           | vienen          | dicen          | consiguen          |
 
+### Group 5 (very irregular)
+
+|                     | ser   | ir    | oir   |
+|---------------------|-------|-------|-------|
+| yo                  | soy   | voy   | oigo  |
+| tú                  | eres  | vas   | oyes  |
+| él/ella/usted       | es    | va    | oye   |
+| nosotros            | somos | vamos | oimos |
+| ellos/ellas/ustedes | son   | van   | oyen  |
+
+### Group 6 (e-i)
+
+
+| English    | spanish |
+|------------|---------|
+| to ask for | pedir   |
+| to serve   | servir  |
+| to repeat  | repetir |
+
+
+|                     | pedir   |
+|---------------------|---------|
+| yo                  | pido    |
+| tú                  | pides   |
+| él/ella/usted       | pide    |
+| nosotros            | pedimos |
+| ellos/ellas/ustedes | piden   |
