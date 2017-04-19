@@ -309,3 +309,32 @@
 | él/ella/usted       | pide    |
 | nosotros            | pedimos |
 | ellos/ellas/ustedes | piden   |
+
+
+## ing form
+
+* estar + verb
+* ex. Yo estoy hablando = I am speaking
+* ar = ando, er = iendo, ir = iendo
+
+|                     |         | trajabar (ar) | creer (er) | compartir (ir) |
+|---------------------|---------|---------------|------------|----------------|
+| yo                  | estoy   | hablando      | creiendo   | compartiendo   |
+| tú                  | estas   | hablando      | creiendo   | compartiendo   |
+| él/ella/usted       | esta    | hablando      | creiendo   | compartiendo   |
+| nosotros            | estamos | hablando      | creiendo   | compartiendo   |
+| ellos/ellas/ustedes | estan   | hablando      | creiendo   | compartiendo   |
+
+
+## Construction of sentences
+
+### to have to
+
+* tener + que + verb = to have to verb
+* ex. yo tengo tarbajar (I have to work)
+
+### going to
+
+* ir + a + vern = going to (in future)
+* ex. yo voy a visitar peru (I am going to visit Peru)
+
