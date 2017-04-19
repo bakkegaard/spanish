@@ -393,3 +393,14 @@
 * el libro es de mi (the book is mine)
 * la casa es de él (the house is his)
 * las mochilas son de los chicos (the bags is the peoples)
+
+## tricks
+
+* de = from, of
+* en = on, in
+* a = at, to
+* para = for, to
+* por = by, for
+* the = la, las, el, los
+* al = a el
+* del = de el
