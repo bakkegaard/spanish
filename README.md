@@ -247,7 +247,7 @@
 
 | English      | spanish     |
 |--------------|-------------|
-| to cost      | c_o_star    |
+| to cost      | c _o_ star    |
 | to try       | pr_o_bar    |
 | to eat lunch | alm_o_rza   |
 | to remember  | rec_o_rdar  |
@@ -404,3 +404,5 @@
 * the = la, las, el, los
 * al = a el
 * del = de el
+
+
