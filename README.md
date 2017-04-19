@@ -81,7 +81,7 @@
 
 ## Time
 
-###Days
+### Days
 * Monday - Lunes
 * Tuesday - Martes
 * Wednesday - Miercoles
@@ -90,7 +90,7 @@
 * Saturday - Sabado
 * Sunday - Domingo
 
-###Months
+### Months
 * January -  enero
 * February - febrero
 * March - marzo
@@ -104,13 +104,13 @@
 * November - noviembre
 * December - Diciembre
 
-###Seasons
+### Seasons
 * spring - primarera
 * summer - verano
 * ofońo - fall
 * invierno - winter
 
-###other
+### other
 * year - ańo
 * month - mes
 * day - dia
@@ -184,7 +184,7 @@
 * responder - to answer
 * vender - to sell
 
-###ir
+### ir
 * abrir - to open
 * admitir - to admit
 * compartir - to share
