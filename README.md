@@ -119,6 +119,31 @@
 * hour - hora
 * minute - minuto
 
+## the body
+
+* ajo - eye
+* boca - mouth
+* brazo - arm
+* cabello - hair
+* cabeza - head
+* ceja - eyebrown
+* ceno - breast
+* cuallo - neck
+* dedo - finger/toe
+* dientes - teeth
+* espalda - back
+* estomago - stomach
+* hombligo - navle
+* hombro - shoulder
+* labios - lips
+* lengua - tunge
+* mano - hand
+* nariz - nose
+* pecho - chest
+* pie - foot
+* pierna - leg
+* vodilla - knee
+
 ## regular verbs
 |                     | trabajar (ar) | creer (er) | compartir (ir) |
 |---------------------|---------------|------------|----------------|
