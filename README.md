@@ -436,3 +436,22 @@
 | él/ella/usted       | trabajo       | creio      | compartio      |
 | nosotros            | trabajamos    | creimos    | compartimos    |
 | ellos/ellas/ustedes | trabajaron    | creieron   | compartieron   |
+
+
+## iregular verbs past simple
+
+|          | yo      | tú         | él/ella/udsted | nosotros   | ellos/ellas/ustedes |
+|----------|---------|------------|----------------|------------|---------------------|
+| ir       | fui     | fuiste     | fue            | fuimos     | fueron              |
+| tener    | tuve    | tuviste    | tuvo           | tuvimos    | tuvieron            |
+| estar    | estuve  | estuviste  | estuvo         | estuvimos  | esstuvieron         |
+| poder    | pude    | pudiste    | pudo           | pudimos    | pudieron            |
+| poner    | puse    | pusiste    | puso           | pusimos    | pusieron            |
+| sabar    | supe    | supiste    | supo           | supomos    | supieron            |
+| hacer    | hice    | hiciste    | hizo           | hicimos    | hicieron            |
+| querer   | quise   | quisiste   | quiso          | quisimos   | quisieron           |
+| dar      | di      | diste      | dió            | dimas      | dieron              |
+| decir    | dije    | dijiste    | dijo           | dijimos    | dijeron             |
+| traer    | traje   | trajiste   | trajo          | trajimos   | trajeron            |
+| conducir | conduje | condujiste | condujo        | condujimos | condujeron          |
+| tradujir | traduje | tradujiste | tradujo        | tradujimos | tradujeron          |
