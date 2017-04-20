@@ -405,4 +405,24 @@
 * al = a el
 * del = de el
 
+## Demonstrating verbs
 
+
+|          | English         | Singular | Plural   |
+|----------|-----------------|----------|----------|
+| Feminin  |                 |          |          |
+|          | this            | esta     | estas    |
+|          | that            | esa      | esas     |
+|          | that over there | aquiella | aquillas |
+| Maskulin |                 |          |          |
+|          | this            | este     | estos    |
+|          | that            | ese      | esos     |
+|          | that over there | aquel    | aquellos |
+| Neutral  |                 |          |          |
+|          | this            | esto     | estos    |
+|          | that            | eso      | esos     |
+|          | that over there | aquello  | aquellos |
+
+* esta hamburguesa
+* este libro
+* esto es caro
