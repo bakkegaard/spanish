@@ -455,3 +455,14 @@
 | traer    | traje   | trajiste   | trajo          | trajimos   | trajeron            |
 | conducir | conduje | condujiste | condujo        | condujimos | condujeron          |
 | tradujir | traduje | tradujiste | tradujo        | tradujimos | tradujeron          |
+| (o-u)    |         |            |                |            |                     |
+| dormi    | dormi   | dormiste   | durmio         | dormimos   | durmieron           |
+| morir    | mori    | moriste    | murio          | morimos    | murieron            |
+| (e-i)    |         |            |                |            |                     |
+| mentir   | menti   | mentiste   | mintio         | mentimos   | mintieron           |
+| preferir | preferi | preferiste | prefirio       | preferimos | predirieron         |
+| pedir    | pedi    | pediste    | pidio          | pedimos    | pidieron            |
+| (i-y)    |         |            |                |            |                     |
+| leer     | lei     | leiste     | leyo           | leimos     | leyeron             |
+| creer    | crei    | creiste    | creyo          | creimos    | creyeron            |
+| caer     | cai     | caiste     | cayo           | caimos     | cayeron             |
