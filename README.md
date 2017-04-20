@@ -426,3 +426,13 @@
 * esta hamburguesa
 * este libro
 * esto es caro
+
+## Simple past
+
+|                     | trabajar (ar) | creer (er) | compartir (ir) |
+|---------------------|---------------|------------|----------------|
+| yo                  | trabajo       | crei       | comparti       |
+| tú                  | trabajaste    | creiste    | compartiste    |
+| él/ella/usted       | trabajo       | creio      | compartio      |
+| nosotros            | trabajamos    | creimos    | compartimos    |
+| ellos/ellas/ustedes | trabajaron    | creieron   | compartieron   |
